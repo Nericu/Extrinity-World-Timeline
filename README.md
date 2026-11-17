@@ -9,4 +9,5 @@ Viewer links only work while this repository is public.
 
 | Timeline | View | Last changed |
 | --- | --- | --- |
-| Extrinity World Projects | [Open](https://www.timelines.studio/viewer/gh/Nericu/Extrinity-World-Timeline/main/extrinity-world-projects.timeline) |  |
+| Extrinity Lore | [Open](https://www.timelines.studio/viewer/gh/Nericu/Extrinity-World-Timeline/main/extrinity-lore.timeline) |  |
+| Extrinity World Projects | [Open](https://www.timelines.studio/viewer/gh/Nericu/Extrinity-World-Timeline/main/extrinity-world-projects.timeline) | 2026-11-17 |
